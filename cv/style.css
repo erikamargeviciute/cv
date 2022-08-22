@@ -1,0 +1,32 @@
+body {
+    background-color: rgb(198, 192, 192);
+    font-family: 'Merriweather', serif;
+    color: #40514E;
+    
+}
+
+.contacts table{
+    margin: 20px auto;
+}
+
+
+.education img{
+    width: 600px;
+}
+
+.contacts img {
+    width: 250px;
+}
+
+.languages table {
+    border: 2px;
+}
+
+
+body {
+    margin-bottom: 200px;
+}
+
+.list {
+    font-size: larger;
+}
